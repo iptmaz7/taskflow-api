@@ -8,6 +8,5 @@ public class UserEntity
     public string Email {get; set;} = string.Empty;
 
     public string HashPassword {get; set;} = string.Empty;
-
     public  List<TaskEntity> Tasks { get; set; } = new(); 
 }
