@@ -1,5 +1,6 @@
-using User.Models;
-namespace Task.Models;
+using TaskFlow.Models;
+
+namespace TaskFlow.Models;
 
 public enum TaskStatus {
     Todo,

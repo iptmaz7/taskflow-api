@@ -1,6 +1,6 @@
-using Task.Models;
+using  TaskFlow.Models;
 
-namespace User.Models;
+namespace TaskFlow.Models;
 
 public class UserEntity
 {
